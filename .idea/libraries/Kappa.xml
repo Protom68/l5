@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Kappa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Kappa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
